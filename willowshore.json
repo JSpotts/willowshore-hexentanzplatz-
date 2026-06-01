@@ -446,7 +446,7 @@
          "x":2614,
          "y":2544,
          "category":"house",
-         "title":"Kawaka's Home",
+         "title":"Myna Estate",
          "description":"Most of Willowshore’s citizens live in or at least near to their place of business. The owner of Cloud Paper House, <i>Myna Kawaka</i> is no exception; he lives in a small suite of rooms on an upper floor of the paper mill",
          "tags":[
             "house"
@@ -460,28 +460,6 @@
          "description":"A watchtower built along the road from Karahai, this is the first building of Willowshore a traveler encounters after passing through the Spider Gate.",
          "tags":[
             "landmark"
-         ]
-      },
-      {
-         "x":1859,
-         "y":1120,
-         "category":"eatery",
-         "title":"The Hungry Groundhog",
-         "description":"This inn is run by the boisterous dwarf <i>Borgram Strongarm</i> who is originally from the Five Kings Mountains but ended up in Willowshore. The Hungry Groundhog is well known for its eternal stew that Borgram has kept going for the past 20 years at least, and fresh salt water lobster (unusual, given how far from any sea willowshore is).<br><br><b>Services: lodgings</b><br><b>Wares: </b>food and drinks",
-         "tags":[
-            "shop",
-            "eatery"
-         ]
-      },
-      {
-         "x":4855,
-         "y":1205,
-         "category":"eatery",
-         "title":"Zhong's Catch",
-         "description":"A small stall on the docks where the gnome <i>Zhong</i> specialises in the best fresh fish of the day. The deep fried fish is popular with the dock workers, but Zhong's speciality are his delicate sushi creations.<br><br><b>Wares: </b>fried fish, sushi",
-         "tags":[
-            "shop",
-            "eatery"
          ]
       }
    ]
