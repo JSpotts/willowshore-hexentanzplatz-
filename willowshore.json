@@ -463,8 +463,8 @@
          ]
       },
       {
-         "x":1980,
-         "y":1850,
+         "x":1830,
+         "y":1750,
          "category":"house",
          "title":"Meilin's Home",
          "description":"The house of Meilin Samni, complete with garden and many other miscellaneous items.",
@@ -473,7 +473,7 @@
          ]
       },
        {
-         "x":1209,
+         "x":1229,
          "y":1146,
          "category":"house",
          "title":"Momo's Home",
@@ -483,7 +483,7 @@
          ]
       },
       {
-         "x":3793,
+         "x":3493,
          "y":1319,
          "category":"house",
          "title":"Shessi's Home",
