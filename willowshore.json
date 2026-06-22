@@ -464,7 +464,7 @@
       },
       {
          "x":1810,
-         "y":1730,
+         "y":1800,
          "category":"house",
          "title":"Meilin's Home",
          "description":"The house of Meilin Samni, complete with garden and many other miscellaneous items.",
@@ -483,8 +483,8 @@
          ]
       },
       {
-         "x":3543,
-         "y":1339,
+         "x":3573,
+         "y":1309,
          "category":"house",
          "title":"Shessi's Home",
          "description":"Shessi's comfortable house, if you don't mind the snake pit out back.",
