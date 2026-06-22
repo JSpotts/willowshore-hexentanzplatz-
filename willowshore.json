@@ -464,10 +464,30 @@
       },
       {
          "x":1980,
-         "y":1750,
+         "y":1850,
          "category":"house",
          "title":"Meilin's Home",
          "description":"The house of Meilin Samni, complete with garden and many other miscellaneous items.",
+         "tags":[
+            "house"
+         ]
+      },
+       {
+         "x":1209,
+         "y":1146,
+         "category":"house",
+         "title":"Momo's Home",
+         "description":"A house within convenient distance of the Leshy Salon.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
+         "x":3793,
+         "y":1319,
+         "category":"house",
+         "title":"Shessi's Home",
+         "description":"Shessi's comfortable house, if you don't mind the snake pit out back.",
          "tags":[
             "house"
          ]
