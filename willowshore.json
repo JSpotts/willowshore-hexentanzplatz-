@@ -422,6 +422,16 @@
          ]
       },
       {
+         "x":1980,
+         "y":1750,
+         "category":"house",
+         "title":"Meilin's Home",
+         "description":"The house of Meilin Samni, complete with garden and many other miscellaneous items.",
+         "tags":[
+            "house"
+         ]
+      },
+      {
          "x":2098,
          "y":1346,
          "category":"eatery",
