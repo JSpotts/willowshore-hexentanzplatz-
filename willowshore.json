@@ -151,7 +151,7 @@
          "y":1889,
          "category":"trade",
          "title":"Industrial District",
-         "description":"The industrial heart of Willowshore, which includes several noticable businesses:<br><br>Jadeite Essentials, a distillery and glasblowing facility, managed by the half-elf <i>Shioli</i>.<br><br><b>Wares:</b> alcohol, essential oils and perfumes, glassware and glass items<br><br>Cloud Paper House, a paper mill run by tengu <i>Kawaka</i> who is also leader of the labourer's guild.<br><b>Wares:</b> paper and paper products such as spellbooks and formula books<br><br>Rebel's Leatherworks, a tannery run by the grumpy nagaji <i>Vitumniar</i>.<br><b>Wares:</b> hide and leather items",
+         "description":"The industrial heart of Willowshore, which includes several noticable businesses:<br><br>Jadeite Essentials, a distillery and glasblowing facility, managed by the half-elf <i>Shioli</i>.<br><br><b>Wares:</b> alcohol, essential oils and perfumes, glassware and glass items. <b>Work:</b>At least liked by Northridge, then Earn Income, Crafting, with a +1 Item Bonus.<br><br>Cloud Paper House, a paper mill run by tengu <i>Kawaka</i> who is also leader of the labourer's guild. <b>Work:</b> At least Liked by Southbank, then Earn Income, Crafting, with a +1 Item Bonus.<br><b>Wares:</b> paper and paper products such as spellbooks and formula books<br><br>Rebel's Leatherworks, a tannery run by the grumpy nagaji <i>Vitumniar</i>.<br><b>Wares:</b> hide and leather items <b>Work:</b> If at least like by Southbank and Northridge, then can Earn Income at Willowshore Level +1",
          "tags":[
             "shop"
          ]
